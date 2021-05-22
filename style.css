@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:#f0e8c5;
+}
+div{
+    margin-top: 15px;
+}
+img{
+    width:500px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
+}
